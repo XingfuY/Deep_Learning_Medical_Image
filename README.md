@@ -1,5 +1,7 @@
 # Deep Learning for 3D Medical Imaging
 
+![Deep Learning for 3D Medical Imaging](figures/hero.png)
+
 A pedagogical tutorial series for ML engineers with no medical physics background. Covers the full pipeline from raw DICOM/NIfTI data handling to state-of-the-art reconstruction with OSEM, conditional GANs, and diffusion models.
 
 ## Notebooks
