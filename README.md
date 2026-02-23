@@ -36,11 +36,11 @@ See [`data/README.md`](data/README.md) for download instructions. Notebooks incl
 
 This project has companion blog posts at [xyang.me](https://xyang.me/projects/deep-learning-medical-image) covering the theory in depth:
 
-1. **The DL Engineer's Field Guide to 3D Medical Imaging** — PET/SPECT physics, DICOM, NIfTI, coordinate systems
-2. **Reconstructing Reality: OSEM and the Math of PET Imaging** — Inverse problems, MLEM, OSEM, attenuation correction
-3. **GANs in the Hospital: Conditional Adversarial Networks for SPECT** — DeepAC, training pipelines, clinical validation
-4. **Diffusion Models Meet Medical Reconstruction** — DDPM for inverse problems, posterior guidance
-5. **Medical AI Validation: Beyond AUC** — C-statistic, NRI, IDI, calibration, reclassification
+1. [The DL Engineer's Field Guide to 3D Medical Imaging](https://xyang.me/posts/dl-medical-imaging-intro) — PET/SPECT physics, DICOM, NIfTI, coordinate systems
+2. [Reconstructing Reality: OSEM and the Math of PET Imaging](https://xyang.me/posts/osem-reconstruction) — Inverse problems, MLEM, OSEM, attenuation correction
+3. [GANs in the Hospital: Conditional Adversarial Networks for SPECT](https://xyang.me/posts/conditional-gan-medical) — DeepAC, training pipelines, clinical validation
+4. [Diffusion Models Meet Medical Reconstruction](https://xyang.me/posts/diffusion-medical-recon) — DDPM for inverse problems, posterior guidance
+5. [Medical AI Validation: Beyond AUC](https://xyang.me/posts/medical-ai-validation) — C-statistic, NRI, IDI, calibration, reclassification
 
 ## License
 
